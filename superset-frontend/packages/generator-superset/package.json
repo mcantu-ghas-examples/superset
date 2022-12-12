@@ -23,7 +23,7 @@
   ],
   "devDependencies": {
     "yeoman-assert": "^3.1.0",
-    "yeoman-test": "^6.2.0",
+    "yeoman-test": "^7.0.0",
     "fs-extra": "^10.0.0"
   },
   "engines": {
